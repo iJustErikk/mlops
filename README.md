@@ -14,4 +14,4 @@ trying to learn mlops (particulary data engineering). following madewithml's cou
 
 also want to look into:
  - read designing ml systems
- - build and deploy something (what? I've deployed a couple models). should wrap in a useful UI- an app or website. maybe cancer detecting app (if its this, make sure they can download and run the model locally so those with limited internet access can get more value.)
+ - build and deploy something (what? I've deployed a couple models). should wrap in a useful UI- an app or website. maybe cancer detecting app (if its this, make sure they can download and run the model locally so those with limited internet access can get more value.) - more on cancer detector- it should find objects of interest, then return back to the user a % that is cancer (after applying some scaling technique) and some interpretability like lime.
