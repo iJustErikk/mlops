@@ -4,8 +4,8 @@ trying to learn mlops (particulary data engineering). following madewithml's cou
 
 - design (done). Justifying and planning developing a ML model. Figuring out requirements of model and system.
 - data (done) Pre-modeling workflow. Labeling, eda, preprocessing, augmentation and splitting.
-- modeling (currently on)
-- developing
+- modeling (done) Doing modeling better. Training (distributed and single gpu), simple baselines. Evaluating and debugging models. Tracking experiments and hyperparameter search.
+- developing (currently on)
 - serving
 - testing
 - reproducibility
